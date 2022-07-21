@@ -1,0 +1,9 @@
+.all-players-container{
+    display: flex;
+}
+.players-container{
+    width: 80%;
+}
+.my-football-team-container{
+    width: 20%;
+}
